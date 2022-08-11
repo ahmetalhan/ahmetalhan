@@ -4,11 +4,10 @@
 
 ## Frontend Developer | Civil Engineer
 
-<font colour=" pink "> Can I take your order pls `sir`</font>
+<font colour=" pink ">  `working`</font>
 
 ### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left"/>][youtube]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left"/>][twitter]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>][linkedin]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left"/>][instagram]
@@ -40,7 +39,6 @@
 
 
 
-[youtube]: https://www.youtube.com/c/PGL/
-[instagram]: https://www.youtube.com/c/PGL/
-[twitter]: https://www.youtube.com/c/PGL/
-[linkedin]: https://www.youtube.com/c/PGL/
+[instagram]: https://www.instagram.com/alhanmt/
+[twitter]: https://twitter.com/3turist3/
+[linkedin]: https://www.linkedin.com/in/ahmet-alhan/
