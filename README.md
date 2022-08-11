@@ -1,4 +1,3 @@
-# profile
 My personal repository
 <img src="https://media.giphy.com/media/RjDIwuXYPzrAEjb6HP/giphy.gif" align="right" width="300" height="300">
 
@@ -35,3 +34,15 @@ My personal repository
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=ahmetalhan&theme=radical">
 </details>
+
+<details>
+<summary>:bulb: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetalhan&layout=compact">
+</details>
+
+
+
+[youtube]: https://www.youtube.com/c/PGL/
+[instagram]: https://www.youtube.com/c/PGL/
+[twitter]: https://www.youtube.com/c/PGL/
+[linkedin]: https://www.youtube.com/c/PGL/
