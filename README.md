@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/TjAcxImn74uoDYVxFl/giphy-downsized-large.gif" align="right" width="300" height="300">
+<img src="https://media.giphy.com/media/TjAcxImn74uoDYVxFl/giphy-downsized.gif" align="right" width="300" height="300">
 
 ### Hi there, I'm Ahmet. :blush:
 
